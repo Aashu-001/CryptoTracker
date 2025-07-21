@@ -51,3 +51,7 @@ git clone https://github.com/aashutosh-sharma/<project-name>.git
 cd <project-name>
 npm install
 npm run dev
+
+
+💡 Feedback & Contributions
+Feel free to fork, open issues, or submit pull requests. Feedback is always welcome!
