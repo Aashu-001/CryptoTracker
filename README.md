@@ -2,7 +2,7 @@
 
 
 
-Welcome to my project portfolio hosted on [Vercel](https://vercel.com/aashutosh-sharmas-projects). This repository showcases multiple projects demonstrating proficiency in modern web development technologies including **React.js**, **Node.js**, **Vite**, **Tailwind CSS**, and **WebSocket** integrations.
+Welcome to my project portfolio hosted on [Vercel](crypto-tracker-5vju-bpxzv16d8-aashutosh-sharmas-projects.vercel.app). This repository showcases multiple projects demonstrating proficiency in modern web development technologies including **React.js**, **Node.js**, **Vite**, **Tailwind CSS**, and **WebSocket** integrations.
 
 ---
 
